@@ -1,2 +1,2 @@
-# shoping-Card-
+# shoping-Card
 Shoping Card using React 
